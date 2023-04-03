@@ -4,6 +4,6 @@
 
 ## Hardware
 
-1x Valve
-1x Coin Selector
-1x Flow meter
+- 1x Valve
+- 1x Coin Selector
+- 1x Flow meter
